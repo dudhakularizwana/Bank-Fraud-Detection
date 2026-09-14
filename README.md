@@ -101,3 +101,31 @@ Save Trained Model
 Streamlit Web Application
    ↓
 Fraud / Not Fraud Prediction
+
+---
+
+## 👩‍💻 Author
+
+**Rizwana Dudekula**
+
+B.Tech – Computer Science and Engineering (Artificial Intelligence)
+
+---
+
+## ⭐ Conclusion
+
+The **Bank Fraud Detection System** demonstrates how Machine Learning can be used to identify potentially fraudulent bank transactions.
+
+The project includes **data preprocessing, feature encoding, model training, model evaluation, and prediction**.
+
+The trained Machine Learning model is integrated with a **Streamlit web application**, allowing users to enter transaction details and get a fraud detection prediction.
+
+This project provided practical experience in **Python, Machine Learning, Scikit-learn, Streamlit, Git, GitHub, and deployment**.
+
+---
+
+## ⭐ Thank You
+
+Thank you for visiting my project! 😊
+
+If you find this project useful, please consider giving the repository a ⭐ **Star** on GitHub.
